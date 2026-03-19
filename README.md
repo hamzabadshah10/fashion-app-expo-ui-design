@@ -10,6 +10,7 @@
 ## ✨ Overview
 This project is a sophisticated **Fashion E-commerce UI** built using **React Native** and **Expo**. It focuses on a "Mobile-First" approach, providing a seamless browsing experience with smooth transitions, clean typography, and high-quality image handling.
 
+
 ### 🌟 Key Features
 * **Modern Home Feed:** Curated categories and trending styles.
 * **Product Details:** Elegant layouts for pricing, sizing, and descriptions.
@@ -30,10 +31,13 @@ This project is a sophisticated **Fashion E-commerce UI** built using **React Na
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
+   
+   ```
    git clone [https://github.com/hamzabadshah10/fashion-app-expo-ui-design.git](https://github.com/hamzabadshah10/fashion-app-expo-ui-design.git)
 
+
 Install dependencies:
+
 ```
 npm install
 Start the project:
@@ -43,14 +47,13 @@ View the App:
 Scan the QR code using the Expo Go app on your phone.
 ```
 
-```
+
 
 📂 Project Structure
 
 <img width="186" height="403" alt="structrue project" src="https://github.com/user-attachments/assets/2a05705c-7e32-4861-a807-faab313a865e" />
 
 
-```
 
 ### 💡 How to update this on your GitHub:
 
