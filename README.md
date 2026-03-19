@@ -6,7 +6,6 @@
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 ![UI/UX](https://img.shields.io/badge/Design-Minimalist-black?style=for-the-badge)
 
----
 
 ## ✨ Overview
 This project is a sophisticated **Fashion E-commerce UI** built using **React Native** and **Expo**. It focuses on a "Mobile-First" approach, providing a seamless browsing experience with smooth transitions, clean typography, and high-quality image handling.
@@ -18,7 +17,6 @@ This project is a sophisticated **Fashion E-commerce UI** built using **React Na
 * **Responsive Design:** Optimized for both iOS and Android devices.
 * **Theming:** Custom color palette optimized for luxury fashion branding.
 
----
 
 ## 🛠️ Tech Stack
 * **Framework:** React Native (Expo Managed Workflow)
@@ -26,7 +24,6 @@ This project is a sophisticated **Fashion E-commerce UI** built using **React Na
 * **Icons:** Lucide-React / Feather Icons
 * **Type:** TypeScript / JavaScript
 
----
 
 ## 🚀 Getting Started
 
@@ -35,39 +32,41 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/hamzabadshah10/fashion-app-expo-ui-design.git](https://github.com/hamzabadshah10/fashion-app-expo-ui-design.git)
-Install dependencies:
 
-Bash
+Install dependencies:
+```
 npm install
 Start the project:
 
-Bash
 npx expo start
 View the App:
 Scan the QR code using the Expo Go app on your phone.
+```
+
+```
 
 📂 Project Structure
-Plaintext
-├── assets/          # High-res images and local fonts
-├── components/      # Reusable UI elements (Buttons, Cards)
-├── app/             # Main screens and navigation logic
-├── constants/       # Global colors and theme settings
-└── hooks/           # Custom React hooks
-👤 Author
-Hamza Badshah
-Software Engineering Undergraduate
 
-Created with ❤️ using Expo.
+<img width="186" height="403" alt="structrue project" src="https://github.com/user-attachments/assets/2a05705c-7e32-4861-a807-faab313a865e" />
 
 
----
+```
 
 ### 💡 How to update this on your GitHub:
 
 1.  **In VS Code:** Create the file `README.md` and paste the code above.
 2.  **In the Terminal:** Run these three final commands:
-    ```bash
+
+    ```
     git add README.md
     git commit -m "Added professional README with badges"
     git push
+    
     ```
+
+   👤 Author
+   
+*Hamza Badshah*
+*Undergraduate Software Engineer*
+
+Created with ❤️ using Expo.
